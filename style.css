@@ -7,6 +7,7 @@ a {
 text-decoration: none;
 }
 
+
 a:visited {
     color: grey;
     text-decoration: none;
@@ -15,3 +16,45 @@ a:visited {
   a:hover {
     color: rgb(0, 197, 197);
   }
+
+body {
+    max-width: 90%;
+    margin: 50px;
+    background: linear-gradient(to bottom, #ffffff, #adadad);
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/010/884/558/small/dense-fluffy-puffs-of-white-smoke-and-fog-on-transparent-background-abstract-smoke-clouds-movement-blurred-out-of-focus-smoking-blows-from-machine-dry-ice-fly-fluttering-in-air-effect-texture-png.png");
+    background-size: cover;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+blockquote {
+    max-width: 50%;
+    background-color: rgb(233, 233, 233);
+    font-size: 160%;
+    border-left: 3px solid #5c5c5c;
+    padding-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-style: italic;
+}
+.villagers{
+    border-left: 3px solid #e60000;
+}
+
+.farmer {
+    border-left: 3px solid #5c5c5c;
+}
+
+header > h1 {
+    background-color: yellow;
+}
+
+.Bad {
+    color: #e60000;
+    text-transform: capitalize;
+}
+
+.Good {
+    color: green;
+    text-transform: capitalize;
+}
