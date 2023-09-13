@@ -1,4 +1,4 @@
-# progressive-enhancement
+# Progressive-enhancement
 
 This presentation is a small training project created for BeCode.org (Also called Chinese Farmer). 
 It utilizes HTML and CSS. 
